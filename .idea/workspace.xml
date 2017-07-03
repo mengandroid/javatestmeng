@@ -79,7 +79,7 @@
       <file leaf-file-name="Test1.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="37" selection-start="423" selection-end="423" vertical-scroll-proportion="0.3202847" vertical-offset="120" max-vertical-offset="1780">
+            <state line="15" column="15" selection-start="401" selection-end="401" vertical-scroll-proportion="0.3202847" vertical-offset="120" max-vertical-offset="1780">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -452,7 +452,11 @@
       <created>1499063946939</created>
       <updated>1499063946939</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Initial commit&#10;">
+      <created>1499063976529</created>
+      <updated>1499063976529</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -631,7 +635,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="37" selection-start="423" selection-end="423" vertical-scroll-proportion="0.3202847" vertical-offset="120" max-vertical-offset="1780">
+        <state line="15" column="15" selection-start="401" selection-end="401" vertical-scroll-proportion="0.3202847" vertical-offset="120" max-vertical-offset="1780">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
