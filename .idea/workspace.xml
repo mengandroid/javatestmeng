@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8490125-1a6e-46e8-b874-0195eed7e0e9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test1.java" afterPath="$PROJECT_DIR$/src/Test1.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="javatest.iws" />
@@ -78,7 +79,7 @@
       <file leaf-file-name="Test1.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="20" selection-start="211" selection-end="211" vertical-scroll-proportion="0.10676157" vertical-offset="120" max-vertical-offset="1780">
+            <state line="15" column="37" selection-start="423" selection-end="423" vertical-scroll-proportion="0.3202847" vertical-offset="120" max-vertical-offset="1780">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -447,7 +448,11 @@
       <created>1499063924070</created>
       <updated>1499063924070</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit&#10;">
+      <created>1499063946939</created>
+      <updated>1499063946939</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -626,7 +631,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="20" selection-start="211" selection-end="211" vertical-scroll-proportion="0.10676157" vertical-offset="120" max-vertical-offset="1780">
+        <state line="15" column="37" selection-start="423" selection-end="423" vertical-scroll-proportion="0.3202847" vertical-offset="120" max-vertical-offset="1780">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
