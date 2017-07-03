@@ -13,7 +13,7 @@ public class Test1 {
         int i=10;
         System.out.println(i+"2");
         Test1 test1=new Test1();
-//这里是测试GitHub地址
+//这里是测试GitHub地址rrrrrrrrrrrr
         RefleEntity entity = new RefleEntity();
         String name = entity.getClass().getName();
         System.out.println(name);//com.meng.wang.RefleEntity
